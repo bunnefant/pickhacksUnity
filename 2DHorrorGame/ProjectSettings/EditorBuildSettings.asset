@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Building.unity
+    guid: 5555a531a09ebe7468f971f96862be1c
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: 788a4e93235d1564ca5cf7916a062ec4
+  - enabled: 1
+    path: Assets/Scenes/dummyTest.unity
+    guid: bc5727efc93c89841bfc576ce6e307b6
+  - enabled: 1
+    path: Assets/Scenes/Couches_ghost.unity
+    guid: 6805d5bcf179e23458913c3dbb155cb5
+  - enabled: 1
+    path: Assets/Scenes/CouchesIntro.unity
+    guid: d983455949aefa647a760e60bb777d4a
+  - enabled: 1
+    path: Assets/Scenes/Bathroom.unity
+    guid: 020493686f2f83c40ab0d26ee2be134e
+  - enabled: 1
+    path: Assets/Scenes/Bathroom_Don.unity
+    guid: b682db22b10535644829871f20c9db2a
+  - enabled: 1
+    path: Assets/Scenes/Couches.unity
+    guid: 8ce20ce977637b942a20e10a60ddd596
+  - enabled: 1
+    path: Assets/Scenes/Elevators.unity
+    guid: 5045eb285e31dad4fa8068c0ccaa23ae
+  - enabled: 1
+    path: Assets/Scenes/Elevators_ghost.unity
+    guid: f701e3a0cc717b24fa8118b1d4bd01a6
+  - enabled: 1
+    path: Assets/Scenes/Field1.unity
+    guid: 4339e29def711b542b20ce0dac0186d0
+  - enabled: 1
+    path: Assets/Scenes/Field2.unity
+    guid: 44dac53e8a868364da4fa40259eeb7d1
+  - enabled: 1
+    path: Assets/Scenes/Glossyhallway#1.unity
+    guid: 7bf239cac3ebf9e44ad877a5cb42d02d
+  - enabled: 1
+    path: Assets/Scenes/Glossyhallway#1_ghost.unity
+    guid: 76589b78d3e53d244a433230c1f6dc16
+  - enabled: 1
+    path: Assets/Scenes/Glossyhallway#2.unity
+    guid: e5eec05adefa73348a53377578e6bd66
+  - enabled: 1
+    path: Assets/Scenes/Glossyhallway#2_ghost.unity
+    guid: 6bd45bf52989d3346beadd840355f2d4
+  - enabled: 1
+    path: Assets/Scenes/cutscences/MainMenu.unity
+    guid: 51fdf023c4f37f64796fb32ab5b9414c
+  - enabled: 1
+    path: Assets/Scenes/Stairs.unity
+    guid: 490bfd6d468276244a1e4cc06ea3571a
+  - enabled: 1
+    path: Assets/Scenes/Underground.unity
+    guid: ba80cb80d790304469377a6ce49846c2
+  - enabled: 1
+    path: Assets/Scenes/Underground_ghost.unity
+    guid: d5cf84707c289474a9dc6a09da6d0110
+  - enabled: 1
+    path: Assets/Scenes/cutscences/BlackCutscene.unity
+    guid: 0d0269415d0973645940fea94e2dae58
+  - enabled: 1
+    path: Assets/Scenes/cutscences/DeadCutscene.unity
+    guid: 54acccb5c1a59a940885c7974969ee66
+  - enabled: 1
+    path: Assets/Scenes/cutscences/KillCutscene.unity
+    guid: 51014e7f1541d47489b15d545baac33a
+  - enabled: 1
+    path: Assets/Scenes/CouchesSetup.unity
+    guid: 3344ce05b0b221a4d977d3c54d3ccf29
+  - enabled: 1
+    path: Assets/Scenes/cutscences/BlackCutscene2.unity
+    guid: 874c635a5597aaa439ed243ea688948e
+  m_configObjects: {}
